@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1338-queries-quality-and-percentage](https://github.com/rishitha-2406/leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/rishitha-2406/leetcode/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/rishitha-2406/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1670-patients-with-a-condition](https://github.com/rishitha-2406/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rishitha-2406/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1877-find-followers-count](https://github.com/rishitha-2406/leetcode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rishitha-2406/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
