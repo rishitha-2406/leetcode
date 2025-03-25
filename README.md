@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/rishitha-2406/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0596-classes-more-than-5-students](https://github.com/rishitha-2406/leetcode/tree/master/0596-classes-more-than-5-students) |
 | [0619-biggest-single-number](https://github.com/rishitha-2406/leetcode/tree/master/0619-biggest-single-number) |
 | [1135-customers-who-bought-all-products](https://github.com/rishitha-2406/leetcode/tree/master/1135-customers-who-bought-all-products) |
