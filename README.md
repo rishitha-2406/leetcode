@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0768-partition-labels](https://github.com/rishitha-2406/leetcode/tree/master/0768-partition-labels) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitha-2406/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rishitha-2406/leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rishitha-2406/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitha-2406/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -119,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitha-2406/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2793-count-the-number-of-complete-components](https://github.com/rishitha-2406/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitha-2406/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rishitha-2406/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/rishitha-2406/leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
@@ -184,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3001-apply-operations-to-maximize-score](https://github.com/rishitha-2406/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+## Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitha-2406/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+## Binary Tree
+|  |
+| ------- |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitha-2406/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 <!---LeetCode Topics End-->
