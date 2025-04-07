@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/rishitha-2406/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rishitha-2406/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rishitha-2406/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rishitha-2406/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/rishitha-2406/leetcode/tree/master/0368-largest-divisible-subset) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rishitha-2406/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/rishitha-2406/leetcode/tree/master/2262-solving-questions-with-brainpower) |
 ## Shortest Path
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/rishitha-2406/leetcode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rishitha-2406/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rishitha-2406/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/rishitha-2406/leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0368-largest-divisible-subset](https://github.com/rishitha-2406/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rishitha-2406/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rishitha-2406/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rishitha-2406/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
