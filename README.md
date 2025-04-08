@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/rishitha-2406/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1670-patients-with-a-condition](https://github.com/rishitha-2406/leetcode/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/rishitha-2406/leetcode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+| [1811-fix-names-in-a-table](https://github.com/rishitha-2406/leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/rishitha-2406/leetcode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/rishitha-2406/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2087-confirmation-rate](https://github.com/rishitha-2406/leetcode/tree/master/2087-confirmation-rate) |
