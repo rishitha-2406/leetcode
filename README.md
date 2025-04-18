@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/rishitha-2406/leetcode/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/rishitha-2406/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rishitha-2406/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/rishitha-2406/leetcode/tree/master/0768-partition-labels) |
