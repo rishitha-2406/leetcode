@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/rishitha-2406/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/rishitha-2406/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/rishitha-2406/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rishitha-2406/leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishitha-2406/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/rishitha-2406/leetcode/tree/master/1656-count-good-triplets) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0768-partition-labels](https://github.com/rishitha-2406/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rishitha-2406/leetcode/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/rishitha-2406/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rishitha-2406/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/rishitha-2406/leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rishitha-2406/leetcode/tree/master/3001-apply-operations-to-maximize-score) |
