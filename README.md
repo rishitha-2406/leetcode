@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rishitha-2406/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/rishitha-2406/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/rishitha-2406/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rishitha-2406/leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rishitha-2406/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0768-partition-labels](https://github.com/rishitha-2406/leetcode/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/rishitha-2406/leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rishitha-2406/leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/rishitha-2406/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rishitha-2406/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rishitha-2406/leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/rishitha-2406/leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
