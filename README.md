@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/rishitha-2406/leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rishitha-2406/leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rishitha-2406/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rishitha-2406/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rishitha-2406/leetcode/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rishitha-2406/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rishitha-2406/leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rishitha-2406/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Database
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/rishitha-2406/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rishitha-2406/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rishitha-2406/leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rishitha-2406/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Bit Manipulation
 |  |
 | ------- |
