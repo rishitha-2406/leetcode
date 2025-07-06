@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rishitha-2406/leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/rishitha-2406/leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rishitha-2406/leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/rishitha-2406/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/rishitha-2406/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rishitha-2406/leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rishitha-2406/leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/rishitha-2406/leetcode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/rishitha-2406/leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/rishitha-2406/leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/rishitha-2406/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rishitha-2406/leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rishitha-2406/leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rishitha-2406/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/rishitha-2406/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishitha-2406/leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Design
+|  |
+| ------- |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/rishitha-2406/leetcode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 <!---LeetCode Topics End-->
